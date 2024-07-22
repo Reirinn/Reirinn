@@ -45,21 +45,25 @@ New Era University
 -------------------
 
 ## Certificates
+- [Introduction to Data Science (July 15, 2024)] (https://www.credly.com/badges/c707d0a3-893c-415a-9e80-87d6125ab90d/public_url)
+
+- [Basiic Training in Cybersecurity and CTF Competitions (April 5, 2024)] (https://drive.google.com/file/d/1Yd290QzIoQb58cf8Wr-XxfMd-Mv17QW0/view?usp=sharing)
+
+- [Data Analytics Essential (January 1, 2024)] (https://www.credly.com/badges/82e245ed-a742-447f-8bda-cb0690335503/public_url)
   
-- Business Analytics with Excel (September 7, 2023)
-  https://simpli-web.app.link/e/xd4zQDUV8Cb
+- [Business Analytics with Excel (September 7, 2023)] (https://simpli-web.app.link/e/xd4zQDUV8Cb)
 
-- Oracle Cloud Data Management 2022 Foundations Certified Associate (November 27, 2022)
-  https://catalog-education.oracle.com/pls/certview/sharebadge?id=078013BD3EB5384443776682F373458BAF55A563C1F4FDD99462B79AD23659BF 
+- [Oracle Cloud Data Management 2022 Foundations Certified Associate (November 27, 2022)]
+  (https://catalog-education.oracle.com/pls/certview/sharebadge?id=078013BD3EB5384443776682F373458BAF55A563C1F4FDD99462B79AD23659BF) 
 
-- Oracle Cloud Infrastructure 2022 Certified Foundations Associate (November 25, 2022)
-  https://catalog-education.oracle.com/pls/certview/sharebadge?id=664E300FE4BDB91033E7123A87326AEA5B6FBC8FD5547ED39965131A725E549A
+- [Oracle Cloud Infrastructure 2022 Certified Foundations Associate (November 25, 2022)]
+  (https://catalog-education.oracle.com/pls/certview/sharebadge?id=664E300FE4BDB91033E7123A87326AEA5B6FBC8FD5547ED39965131A725E549A)
 
-- Prospects of Emerging Technologies and Trends in Information Technology (November 25, 2022)
-  https://drive.google.com/file/d/1yKsRFha_874W7fn9DTPYGLaqzR_gNPaF/view?pli=1
+- [Prospects of Emerging Technologies and Trends in Information Technology (November 25, 2022)]
+  (https://drive.google.com/file/d/1yKsRFha_874W7fn9DTPYGLaqzR_gNPaF/view?pli=1)
   
-- SQL and Relational Databases 101 (November 5, 2022)
-  https://courses.cognitiveclass.ai/certificates/91a06b9b055f4ad1a6b9fe8da417bc25
+- [SQL and Relational Databases 101 (November 5, 2022)]
+  (https://courses.cognitiveclass.ai/certificates/91a06b9b055f4ad1a6b9fe8da417bc25)
 -------------------
 
 ## Power BI Projects
