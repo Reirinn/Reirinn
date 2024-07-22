@@ -47,7 +47,7 @@ New Era University
 ## Certificates
 - [Introduction to Data Science | July 15, 2024](https://www.credly.com/badges/c707d0a3-893c-415a-9e80-87d6125ab90d/public_url)
 
-- [Basiic Training in Cybersecurity and CTF Competitions | April 5, 2024](https://drive.google.com/file/d/1Yd290QzIoQb58cf8Wr-XxfMd-Mv17QW0/view?usp=sharing)
+- [Basic Training in Cybersecurity and CTF Competitions | April 5, 2024](https://drive.google.com/file/d/1Yd290QzIoQb58cf8Wr-XxfMd-Mv17QW0/view?usp=sharing)
 
 - [Data Analytics Essential | January 1, 2024](https://www.credly.com/badges/82e245ed-a742-447f-8bda-cb0690335503/public_url)
   
