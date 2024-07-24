@@ -27,6 +27,7 @@
      <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
   <a/>
 <p/>
+
   
   
 ## Education
@@ -35,6 +36,7 @@
 <img src = "https://github.com/user-attachments/assets/1211ec0e-8bbf-4144-9e0e-04ac6341d1f3" width="600" height="300">
 <a href = "https://neu.edu.ph/main/">
 </p>
+
 
 ## Certificates 
   <table align="center" width="600" height="200">
@@ -85,6 +87,7 @@
   </table>
   
 
+
 ## Power BI Projects
 <table>
   <tr>
@@ -116,7 +119,7 @@
 - [Observer Design Pattern](https://github.com/Reirinn/Observer-Pattern)
 - [Singleton Design Pattern](https://github.com/Reirinn/Singleton-Pattern)
 
--------------------
+
 
 
 ## Skill Set 
