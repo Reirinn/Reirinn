@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src = "https://github.com/user-attachments/assets/6c22d444-430e-4e88-aa2c-ec02d968bc77" width="200" />
 </p>
@@ -26,14 +27,12 @@
      <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
   <a/>
 <p/>
-
-
-<div align="left">
+  
   
 ## Education
 
 <p align="center">[ 2024 - Present | Bachelor of Science in Computer Science | New Era University ]
-<img src = "https://github.com/user-attachments/assets/1211ec0e-8bbf-4144-9e0e-04ac6341d1f3" width="600" height="400">
+<img src = "https://github.com/user-attachments/assets/1211ec0e-8bbf-4144-9e0e-04ac6341d1f3" width="600" height="300">
 <a href = "https://neu.edu.ph/main/">
 </p>
 
