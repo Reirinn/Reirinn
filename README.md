@@ -8,9 +8,8 @@
 
 <h3 align="center">A passionate Software Engineer from the Philippines</h3>
 
-  Hello! I am Rayleen Rae F. Bitoon from the Philippines. I am passionate about software engineering and developing systems that will be beneficial to mankind.
-  I have taken career certifications that helped me to improve and increase my knowledge about fields like database management. Below are my certifications that I took.
-  I would be glad to gain more knowledge and experience with you!
+  Hello! I am Rayleen Rae F. Bitoon from the Philippines. Fascinated and enthused with the world of programming. I started studying Computer Science and continuously acquiring new knowledge and experiences that I can use in the industry.  I am currently aspiring to be a Cybersecurity Professional.
+
   
 
 - 🌱 I’m currently learning **Cybersecurity**
