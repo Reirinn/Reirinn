@@ -8,11 +8,11 @@
   Hello! I am Rayleen Rae F. Bitoon from the Philippines. Fascinated and enthused with the world of programming. I started studying Computer Science and continuously acquiring new knowledge and experiences that I can use in the industry.  I am currently aspiring to be a Cybersecurity Professional.
 
   🌱 I’m currently learning **Cybersecurity**
-
 </p>
 &nbsp
+&nbsp
 </div>
-<div align>
+<div align="center">
 <p align="center">
   <a href="mailto:bitoonrayleenrae@gmail.com">
      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
