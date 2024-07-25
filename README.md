@@ -1,9 +1,9 @@
-# 
+## 
 <div>
   
 <img src = "https://github.com/user-attachments/assets/6c22d444-430e-4e88-aa2c-ec02d968bc77" width="200" align="left">
-<h3  align="left"><strong>Rayleen Rae F. Bitoon</strong></h3>
-<h4 align="left">A passionate Software Engineer and Aspiring Cybersecurity Professional</h4>
+<h3  align="left"><strong>Computer Science | Back-End Developer | Aspiring Cybersecurity Professional | Language Enthusiast</strong></h3>
+
 <p>
   Hello! I am Rayleen Rae F. Bitoon from the Philippines. Fascinated and enthused with the world of programming. I started studying Computer Science and continuously acquiring new knowledge and experiences that I can use in the industry.  I am currently aspiring to be a Cybersecurity Professional.
 
@@ -32,7 +32,7 @@
 
   
   
-# EDUCATION 
+## EDUCATION 
 
 <h3 align="center"><strong>[ 2024 - Present | Bachelor of Science in Computer Science | New Era University ]</strong></h3>
 &nbsp
@@ -43,7 +43,7 @@
 <p align="center"> P.S. I'm the one who took this shot! ^^ </p>
 &nbsp
 
-# CERTIFICATIONS 
+## CERTIFICATIONS 
   <table align="center" width="600" height="400">
     <tr>
       <td align="center" width="300" height="150"> 
@@ -92,7 +92,7 @@
   </table>
   &nbsp
 
-# POWER BI PROJECTS 
+## POWER BI PROJECTS 
 <table>
   <tr>
     <td>
@@ -114,7 +114,7 @@
 </table>
 &nbsp
 
-# SOFTWARE ENGINEERING DESIGN PATTERNS
+## SOFTWARE ENGINEERING DESIGN PATTERNS
 
   <table align="center" width="600" height="300">
     <tr>
@@ -155,7 +155,7 @@
   &nbsp
 
 
-# SKILL SETS 
+## SKILL SETS 
 <div>
 <table align="center">
   <tr>
