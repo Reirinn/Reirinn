@@ -1,4 +1,4 @@
-## Computer Science | Back-End Developer | Aspiring Cybersecurity Professional | Language Enthusiast
+## 
 <div>
   
 <img src = "https://github.com/user-attachments/assets/6c22d444-430e-4e88-aa2c-ec02d968bc77" width="200" align="left">
