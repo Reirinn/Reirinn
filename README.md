@@ -1,21 +1,18 @@
-
-<p align="center">
-  <img src = "https://github.com/user-attachments/assets/6c22d444-430e-4e88-aa2c-ec02d968bc77" width="200" />
-</p>
-
-<div align="center">
+# 
+<div>
   
-## Rayleen Rae F. Bitoon
-
-
-<h3 align="center">A passionate Software Engineer from the Philippines</h3>
-
+<img src = "https://github.com/user-attachments/assets/6c22d444-430e-4e88-aa2c-ec02d968bc77" width="200" align="left">
+<h3  align="left"><strong>Rayleen Rae F. Bitoon</strong></h3>
+<h4 align="left">A passionate Software Engineer and Aspiring Cybersecurity Professional</h4>
+<p>
   Hello! I am Rayleen Rae F. Bitoon from the Philippines. Fascinated and enthused with the world of programming. I started studying Computer Science and continuously acquiring new knowledge and experiences that I can use in the industry.  I am currently aspiring to be a Cybersecurity Professional.
 
   🌱 I’m currently learning **Cybersecurity**
 
-<div>
-  
+</p>
+&nbsp
+</div>
+<div align>
 <p align="center">
   <a href="mailto:bitoonrayleenrae@gmail.com">
      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
@@ -27,19 +24,24 @@
      <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">
   <a/>
 <p/>
+</div>
+    
+</div>
+&nbsp
+
 
   
   
-## Education
+# EDUCATION 
 
 <p align="center">[ 2024 - Present | Bachelor of Science in Computer Science | New Era University ]
 <img src = "https://github.com/user-attachments/assets/1211ec0e-8bbf-4144-9e0e-04ac6341d1f3" width="600" height="300">
 <a href = "https://neu.edu.ph/main/">
 </p>
+&nbsp
 
-
-## Certificates 
-  <table align="center" width="600" height="200">
+# CERTIFICATIONS 
+  <table align="center" width="600" height="400">
     <tr>
       <td align="center" width="300" height="150"> 
         <a href="https://www.credly.com/badges/c707d0a3-893c-415a-9e80-87d6125ab90d/public_url"> 
@@ -85,10 +87,9 @@
       </td>
     </tr>
   </table>
-  
+  &nbsp
 
-
-## Power BI Projects
+# POWER BI PROJECTS 
 <table>
   <tr>
     <td>
@@ -108,31 +109,70 @@
     </td>
   </tr>  
 </table>
+&nbsp
 
+# SOFTWARE ENGINEERING DESIGN PATTERNS
 
-## Software Engineering Design Patterns
-
-- [Factory Design Pattern](https://github.com/Reirinn/Factory_Design_Pattern)
-- [Command Design Pattern](https://github.com/Reirinn/Command_Design_Pattern)
-- [Adapter Design Pattern](https://github.com/Reirinn/Adapter_Design_Pattern)
-- [Facade Design Pattern](https://github.com/Reirinn/Facade-Pattern)
-- [Observer Design Pattern](https://github.com/Reirinn/Observer-Pattern)
-- [Singleton Design Pattern](https://github.com/Reirinn/Singleton-Pattern)
-
-
-
-
-## Skill Set 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reirinn&show_icons=true&locale=en&layout=compact" alt="reirinn" /></p>
-
-<div align="left">
-  <table>
+  <table align="center" width="600" height="300">
     <tr>
-      <td><strong>Data Visualization Tools</strong></td>
-      <td>
+      <td align ="center" width="600" height="200">
+        <img src = "https://github.com/user-attachments/assets/74d1c46d-f13e-49f6-acb0-77252087cb09">
+        <h4>Factory Design Pattern</h4>
+        <a href = "https://github.com/Reirinn/Factory_Design_Pattern">
+      </td>
+      <td align ="center" width="600" height="200">
+        <img src="https://github.com/user-attachments/assets/a5e4358a-e265-4c10-acec-ff8a252dbf45">
+        <h4>Command Design Pattern</h4>
+        <a href="https://github.com/Reirinn/Command_Design_Pattern">
+      </td>
+       <td align ="center" width="600" height="200">
+        <img src="https://github.com/user-attachments/assets/b53d73ec-71dd-492b-a354-7f0fcb08233a">
+        <h4>Adapter Design Pattern</h4>
+        <a href="https://github.com/Reirinn/Adapter_Design_Pattern">
+      </td>
+    </tr>
+    <tr>
+       <td align ="center" width="600" height="200">
+        <img src="https://github.com/user-attachments/assets/a82a3bc6-91b4-48f5-964d-924587e451ff">
+        <h4>Facade Design Pattern</h4>
+        <a href="https://github.com/Reirinn/Facade-Pattern">
+      </td>
+       <td align ="center" width="600" height="200">
+        <img src="https://github.com/user-attachments/assets/44360a9d-1e21-4d68-b6ed-70cd8a9b7608">
+        <h4>Observer Design Pattern</h4>
+        <a href="https://github.com/Reirinn/Observer-Pattern">
+      </td>
+       <td align ="center" width="600" height="200">
+        <img src="https://github.com/user-attachments/assets/21f165c5-7596-4c97-a477-fcd8c3757935">
+        <h4>Singleton Design Pattern</h4>
+        <a href="https://github.com/Reirinn/Singleton-Pattern">
+      </td>    
+    </tr>
+  </table>
+  &nbsp
+
+
+# SKILL SETS 
+<div>
+<table align="center">
+  <tr>
+    <td>
+      <h3 align="left">Languages and Tools</h3>
+    </td>
+    <td>
+      <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+    </td>  
+  </tr>
+  <tr>
+    <td>
+      <h3> Data Visualization Tools </h3>
+    </td>
+    <td>
         <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/></a>
         <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
+    </td>  
+  </tr>
+
+</table>
+</div>
+
