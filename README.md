@@ -34,10 +34,13 @@
   
 # EDUCATION 
 
-<p align="center">[ 2024 - Present | Bachelor of Science in Computer Science | New Era University ]
+<h3 align="center"><strong>[ 2024 - Present | Bachelor of Science in Computer Science | New Era University ]</strong></h3>
+&nbsp
+<p align="center">
 <img src = "https://github.com/user-attachments/assets/1211ec0e-8bbf-4144-9e0e-04ac6341d1f3" width="600" height="300">
 <a href = "https://neu.edu.ph/main/">
 </p>
+<p align="center"> P.S. I'm the one who took this shot! ^^ </p>
 &nbsp
 
 # CERTIFICATIONS 
